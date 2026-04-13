@@ -31,8 +31,5 @@ dependencies {
 mainClassName = 'App'
 
 //we can add our own task
-task HelloHRM{
-doLast{
-println 'Good morning HRM'
-}
+
 }
